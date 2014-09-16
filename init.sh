@@ -9,7 +9,12 @@ cd ${1}-1.0
 dh_make --createorig --indep
 
 mkdir essentials
-mv debian/{changelog,compat,rules,control} essentials
+#mv debian/{changelog,compat,rules,control} essentials
+cp debian/changelog essentials
+cp debian/compat essentials
+cp debian/rules essentials
+cp debian/control essentials
+
 rm -r debian
 mv essentials debian
 
