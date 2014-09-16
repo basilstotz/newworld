@@ -1,5 +1,5 @@
 newworld
 ========
 
-closed source lerning app for english
+closed source learning app for english
 
