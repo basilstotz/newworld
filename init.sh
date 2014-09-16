@@ -15,6 +15,6 @@ cp debian/compat essentials
 cp debian/rules essentials
 cp debian/control essentials
 
-rm -r debian
+mv debian debian.ori
 mv essentials debian
 
