@@ -5,7 +5,7 @@ Name=New World 1
 Name[de]=New World 1 
 GenericName[de]=Englisch lernen
 Comment[de]=Englisch lernen
-Exec=chromium-browser --app=file:///usr/share/prop/newworld/index.html
+Exec=chromium-browser --app=file:///usr/share/prop/newworld/lmplayer.html
 Terminal=false
 X-MultipleArgs=false
 Type=Application
