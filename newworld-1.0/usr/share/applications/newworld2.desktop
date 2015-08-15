@@ -5,10 +5,10 @@ Name=New World 2
 Name[de]=New World 2
 GenericName[de]=Englisch lernen
 Comment[de]=Englisch lernen
-Exec=firefox --app=file:///usr/share/prop/newworld2/lmplayer.html
+Exec=nw /usr/share/prop/newworld/2/
 Terminal=false
 X-MultipleArgs=false
 Type=Application
-Icon=newworld1.png
+Icon=newworld2.png
 Categories=Education;
 Keywords="lp21 sprachen englisch z2 hören lesen"
