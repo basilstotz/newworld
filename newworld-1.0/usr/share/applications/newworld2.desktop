@@ -1,11 +1,11 @@
 #!/usr/bin/env xdg-open
 [Desktop Entry]
 Version=1.0
-Name=New World 1
+Name=New World 2
 Name[de]=New World 2
 GenericName[de]=Englisch lernen
 Comment[de]=Englisch lernen
-Exec=firefox --app=file:///usr/share/prop/2/index.html
+Exec=firefox --app=file:///usr/share/prop/newworld2/lmplayer.html
 Terminal=false
 X-MultipleArgs=false
 Type=Application
